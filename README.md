@@ -1,7 +1,7 @@
 # Nombre de tu aplicación
-- **Alumno/a:** Nombre Apellidos
-- **Temática:** gestión de …
-- **IDE:** NetBeans / IntelliJ
+- **Alumno/a:** Guillermo Rafael Jimenez Muñoz
+- **Temática:** gestión de empresa
+- **IDE:** NetBeans 
 - **Inicio de sesión:** (a partir del Hito 1)
 ## Estado
 ### Hito 0
